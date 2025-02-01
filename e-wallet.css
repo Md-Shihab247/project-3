@@ -25,7 +25,9 @@
         display: flex;
     }
 
-
+    body{
+        overflow-x: hidden;
+    }
     /* Navbar start  */
 
     nav{margin: 0 auto;
